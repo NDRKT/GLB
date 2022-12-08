@@ -1,0 +1,11 @@
+Model Information:
+* title:	conv_test5
+* source:	https://sketchfab.com/3d-models/conv-test5-25a32b2b119948c3b905a21db1098f45
+* author:	NDR (https://sketchfab.com/ndrkt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "conv_test5" (https://sketchfab.com/3d-models/conv-test5-25a32b2b119948c3b905a21db1098f45) by NDR (https://sketchfab.com/ndrkt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
